@@ -1,0 +1,2 @@
+Starting NAHLN-O-MATIC_AMR version 1.2
+Exiting NAHLN-O-MATIC_AMR
